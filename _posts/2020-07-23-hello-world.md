@@ -9,8 +9,13 @@ tags: [test]
 ---
 ##Hello World##
 
-I'm not sure how this works, but it's fun to try. Can this be my first blog post on Github?   
+I'm not sure how this *works*, but it's fun to **try**. 
+Can this be my first blog post on Github?~~Nevermind 
 
-##A brave new world##
+..*Unordered sublist. 
+
+> Blockquotes are very handy. 
+
+##A brave new world
 Do you know how to link in Markdown? 
 [I'm a link to Brave New World on Wikipedia](https://en.wikipedia.org/wiki/Brave_New_World)
