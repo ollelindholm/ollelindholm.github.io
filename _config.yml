@@ -7,7 +7,7 @@ title: My website
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Olle Lindholm
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://ollelindholm.com"
 
 # --- Logo --- #
 
@@ -39,16 +39,16 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: ollelindholm
+  github: ollelindholm
+  twitter: ollelindholm
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: ollelindholm
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: false
+#  instagram: ollelindholm
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
